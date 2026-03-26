@@ -1,3 +1,3 @@
-#Internship tracker built using claude
+INTERNSHIP TRACKER USING CLAUDE
 
 Having trouble uploading the entire codebase (checkback later)...
